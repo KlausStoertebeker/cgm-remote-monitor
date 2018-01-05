@@ -1,4 +1,4 @@
 {
-    "url": 'mongodb://Nordmann:jUxkIZ41FsJmFglU@ds046047.mlab.com:46047/nordmannsdiabetesdatenbank',
+    "url": "mongodb://Nordmann:jUxkIZ41FsJmFglU@ds046047.mlab.com:46047/nordmannsdiabetesdatenbank",
     "collection": null
 }
